@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class ShadowsOfMorDoorsGameAPI {
+public class ShadowsOfMorDoorsGameAPI extends Main {
 
     private Map<String, Object> gameData = new HashMap<>();
     private Map<String, Object> gameState = new HashMap<>();
